@@ -1,0 +1,10 @@
+build/
+.idea/
+gradle/
+.gradle/
+.idea/.gitignore
+.idea/compiler.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/sonarlint/
+.idea/uiDesigner.xml
