@@ -1,6 +1,5 @@
 build/
 .idea/
-gradle/
 .gradle/
 .idea/.gitignore
 .idea/compiler.xml
